@@ -1,3 +1,7 @@
 # Picture in Picture
 
-See whats behind you through your webcam feed
+- [x] Allows you to share your screen, window or tab
+- CLick Start 🚀
+
+Enjoy 🧑🏾‍💻
+[Live Site](https://yuskhosmith.github.io/picture-in-picture/)
